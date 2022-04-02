@@ -1,0 +1,6 @@
+{
+	"appId": "com.technyks.mazaEatsApp",
+	"appName": "Maza Eats",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
